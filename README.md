@@ -150,5 +150,5 @@ This project is for research, learning, and demonstration purposes only. It is n
 ## Author
 
 Ankush Jha  
-BS, IIT Patna  
+IIT Patna  
 GitHub: [@ankushjha556](https://github.com/ankushjha556)
